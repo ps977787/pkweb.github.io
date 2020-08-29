@@ -1,0 +1,241 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+#navbar{
+    display:flex;
+    background: rgb(28, 36, 25);
+}
+#form{
+    padding:10px;
+    padding-left:200px;
+    margin-top:18px;
+    color:white;
+}
+#navbar img{
+    height:55px;
+    width:55px;
+}
+#navbar ul{
+    display:flex;
+    align-items:center;
+    margin-left:25px;
+    margin-top:10px;
+    }
+    #navbar ul li{
+        text-decoration: none;
+        list-style-type: none;
+}
+#navbar ul li a{
+    text-decoration:none;
+    margin:34px;
+    font-size:1.1rem;
+    color:white;
+}
+#navbar ul li a:hover{
+    color:rgb(172, 228, 135);
+}
+.primary{
+    display:block;
+    width:500px;
+    margin:auto;
+    justify-content: center;
+    align-items:center;
+    z-index:1;
+    opacity:5;
+    color:black;
+    color:white;
+}
+    .primary h1{
+        display:flex;
+        align-items:center;
+        justify-content:center;
+        color:rgb(88, 39, 223);
+        opacity:10;
+    }
+    .primary0{
+        background: url('pizza.jpg');
+        margin-top:0px;
+        height:650px;
+        align-items:center;
+        justify-content: center;
+       opacity:10;
+    }
+    #primary1{
+        padding-top:250px;
+        align-items:center;
+        justify-content:center;
+    }
+    .mid{
+        display: flex;
+        padding:10px;
+        background:rgb(211, 203, 160);
+    }
+    #mid1{
+        border:2px solid rgb(194, 129, 45);
+        padding:2px;
+        margin:3px;
+        background:rgb(228, 219, 219);
+        border-radius:18px;
+
+    }
+    #mid2{
+        border:2px solid rgb(194, 129, 45);
+        padding:2px;
+        margin:3px;
+        background:rgb(228, 219, 219);
+        border-radius:18px;
+    }
+    #mid3{
+        border:2px solid rgb(194, 129, 45);
+        padding:2px;
+        margin:3px;
+        background:rgb(228, 219, 219);
+        border-radius:18px;
+    }
+    #service{
+        display:flex;
+        align-items: center;
+        justify-content: center;
+        color:white;
+        background:rgb(65, 112, 98);
+        padding-top:3px;
+    }
+    #mid1 img{
+        height:75px;
+        width:100px;
+        border-radius:20px;
+    }
+    #mid2 img{
+        height:75px;
+        width:100px;
+        border-radius:20px;
+    }
+    #del{
+        display:flex;
+        align-items:center;
+        justify-content:center;
+    }
+    #del{
+        display:flex;
+        align-items:center;
+        justify-content:center;
+    }
+    #del3{
+        display:flex;
+        align-items:center;
+        justify-content:center;
+    }
+    #mid3 img{
+        height:80px;
+        width:80px;
+
+    }
+    #praveen{
+        display:flex;
+        align-items:center;
+        justify-content: center;
+    }
+    #clients h1{
+        display:flex;
+        align-items:center;
+        justify-content:center;
+        background-color: rgb(216, 187, 152);
+    }
+    #clients img{
+        display:flex;
+        width:60%;
+        height:60%;
+        align-items:center;
+        justify-content:center;
+        padding:20px;
+        margin:20px;
+    }
+    #client{
+        display:flex;
+        align-items:center;
+        justify-content:center;
+    }
+    #clients{
+        background:rgb(58, 53, 53);
+    }
+    #apple{
+        margin-left:70px;
+    }
+    #micro{
+        margin-left:250px;
+    }
+    #nitro{
+        width:1000px;
+        height:380px;
+        margin-top:34px;
+    }
+  #contact img{
+      display:block; 
+      width:1350px;
+      height:500px;
+  }
+  #contact h1{
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      font-size:3.8rem;
+      background:rgb(121, 99, 99);
+  }
+  #btn{
+      display:flex;
+      align-items: center;
+      justify-content:center;
+      width:250px;
+      border-color:rgb(86, 230, 86);
+      margin-left:100px;
+      cursor:pointer;
+      border-radius:15px;
+      height:35px;
+      font-size:1.2rem;
+  }
+  #btn:hover{
+      background:rgb(115, 180, 115);
+  }
+  #query{
+      display:block;
+      width:150px;
+      height:100px;
+      margin:auto;
+  }
+     .hello{
+      background:url('contact.jpg');
+      height:400px;
+      width:1350px;
+  }
+  #wwww{
+      font-size:1.5rem;
+      margin-top:50px;
+      text-decoration: none;
+      list-style-type:none;
+      color:rgb(2, 2, 7);
+
+  }
+  #hi input {
+      border-radius:8px;
+  }
+  #www{
+      height:50px;
+  }
+  #btn1{
+      display:block;
+      width:150px;
+      height:30px;
+      margin:auto;
+      font-size:1.1rem;
+      border-radius:15px;
+      margin-top:3px;
+      margin-left:7px;
+      background:rgb(94, 94, 173);
+  }
+  #btn1:hover{
+      background:rgb(134, 190, 141);
+  }
